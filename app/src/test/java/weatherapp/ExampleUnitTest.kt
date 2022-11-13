@@ -1,4 +1,4 @@
-package rakib.hasan.weatherapp
+package weatherapp
 
 import org.junit.Test
 
