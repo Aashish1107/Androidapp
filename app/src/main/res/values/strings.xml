@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Weather Genie</string>
+    <string name="hit_the_weather">Hit The Weather</string>
+
+    <string name="degree_celsius">℃</string>
+    <string name="fahrenheit">\u2109</string>
+    <string name="feels_like">Feels like</string>
+    <string name="wind_unit">mph</string>
+    <string name="pressure_unit">inHg</string>
+    <string name="visibility_unit">mi</string>
+    <string name="percentage">%</string>
+
+
+    <string name="wind">Wind:</string>
+    <string name="wind_">Wind</string>
+    <string name="wind_value">13.8mph SSW</string>
+    <string name="humidity">Humidity:</string>
+    <string name="humidity_">Humidity</string>
+    <string name="humidity_value">43%</string>
+    <string name="uv_index">UV index:</string>
+    <string name="uv_index_">UV index</string>
+    <string name="uv_index_value">4.8</string>
+    <string name="dhaka_dhaka_division">Dhaka, Dhaka Division</string>
+    <string name="pressure">Pressure:</string>
+    <string name="pressure_">Pressure</string>
+    <string name="pressure_value">29inHg</string>
+    <string name="visibility">Visibility:</string>
+    <string name="visibility_">Visibility</string>
+    <string name="visibility_value">2.5mi</string>
+    <string name="dew_point">Dew point:</string>
+    <string name="dew_point_">Dew point</string>
+    <string name="dew_point_value">69F</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="comma">,</string>
+    <string name="dhaka_division">Dhaka Division</string>
+    <string name="sunrise_at">Sunrise at</string>
+    <string name="sunset_at">Sunset at</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="_5_47_am">5:47 AM</string>
+    <string name="_6_14_pm">6:14 PM</string>
+
+
+
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="try_again">Try again</string>
+    <string name="fetching_data">Fetching data…</string>
+
+
+</resources>
